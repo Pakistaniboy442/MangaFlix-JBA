@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fvKUiC99hmiKBtAyoqsWl3w9M4+GfixPoQLMRDkS95R+Ip3MJHkENLGePV9G8/336Szje+Sqbr3LeSaLB3ebCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\muham\\source\\repos\\JBAMangaFlix\\JBAMangaFlix\\JBAMangaFlix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\muham\\.nuget\\packages\\microsoft.web.webview2\\1.0.1054.31\\microsoft.web.webview2.1.0.1054.31.nupkg.sha512"
+  ],
+  "logs": []
+}

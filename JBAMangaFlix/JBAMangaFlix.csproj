@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <PackageId>MangaFlix</PackageId>
+    <Authors>Pakistaniboy442</Authors>
+    <Company>Pakistani Devlopment</Company>
+    <Product>MangaFlix</Product>
+    <AssemblyName>JBAMangaFlix</AssemblyName>
+    <ApplicationIcon>AppIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="MangaFlix.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.1054.31" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="MangaFlix.png" />
+  </ItemGroup>
+
+</Project>
