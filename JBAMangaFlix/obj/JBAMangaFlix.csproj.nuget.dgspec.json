@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\muham\\source\\repos\\JBAMangaFlix\\JBAMangaFlix\\JBAMangaFlix.csproj": {}
+    "C:\\Users\\muham\\source\\repos\\MangaFlix-JBA\\JBAMangaFlix\\JBAMangaFlix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\muham\\source\\repos\\JBAMangaFlix\\JBAMangaFlix\\JBAMangaFlix.csproj": {
+    "C:\\Users\\muham\\source\\repos\\MangaFlix-JBA\\JBAMangaFlix\\JBAMangaFlix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\muham\\source\\repos\\JBAMangaFlix\\JBAMangaFlix\\JBAMangaFlix.csproj",
+        "projectUniqueName": "C:\\Users\\muham\\source\\repos\\MangaFlix-JBA\\JBAMangaFlix\\JBAMangaFlix.csproj",
         "projectName": "MangaFlix",
-        "projectPath": "C:\\Users\\muham\\source\\repos\\JBAMangaFlix\\JBAMangaFlix\\JBAMangaFlix.csproj",
+        "projectPath": "C:\\Users\\muham\\source\\repos\\MangaFlix-JBA\\JBAMangaFlix\\JBAMangaFlix.csproj",
         "packagesPath": "C:\\Users\\muham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\muham\\source\\repos\\JBAMangaFlix\\JBAMangaFlix\\obj\\",
+        "outputPath": "C:\\Users\\muham\\source\\repos\\MangaFlix-JBA\\JBAMangaFlix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\muham\\AppData\\Roaming\\NuGet\\NuGet.Config",

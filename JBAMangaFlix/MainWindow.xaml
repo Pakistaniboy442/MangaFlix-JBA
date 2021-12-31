@@ -112,7 +112,92 @@
                     JoJolion
                     </TextBlock>
                     <Border Grid.Row="3" Margin="4" Background="#FF2E2E2E" CornerRadius="4,4,4,4" >
+                        <Grid>
+                            <ScrollViewer HorizontalScrollBarVisibility="Auto" VerticalScrollBarVisibility="Hidden">
+                                <StackPanel Orientation="Horizontal">
+                                    <Button x:Name="JChapter_1" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="JChapter_1_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/x7nU01cDV4o/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="JChapter_2" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="JChapter_2_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/FletVwumc60/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="JChapter_3" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="JChapter_3_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/tlGK1lt1u1k/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="JChapter_4" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="JChapter_4_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/oA9jWms8Kpw/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="JChapter_5" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="JChapter_5_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/vrKc8Ez4Vgk/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="JChapter_6" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="JChapter_6_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/aYUyuoSA9vc/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="JChapter_7" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="JChapter_7_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/-P8kjY6_ojU/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="JChapter_8" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="JChapter_8_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/uKslpDTzlUY/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="JChapter_9" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="JChapter_9_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/amITGdJhybk/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="JChapter_10" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="JChapter_10_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/d4_f-VDQTuU/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="JChapter_11" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="JChapter_11_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/2Jp6XioRQsg/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Grid Width="315" Height="113" Margin="5,0,0,0" Background="#FF3C3C3C">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="120"></ColumnDefinition>
+                                            <ColumnDefinition Width="26*"></ColumnDefinition>
+                                        </Grid.ColumnDefinitions>
+                                        <Grid>
+                                            <Grid.Background>
+                                                <ImageBrush ImageSource="/JoJolionCover.jpg" Stretch="UniformToFill" TileMode="None"/>
+                                            </Grid.Background>
+                                        </Grid>
+                                        <Grid Grid.Column="1">
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition></RowDefinition>
+                                                <RowDefinition Height="35"></RowDefinition>
+                                            </Grid.RowDefinitions>
+                                            <Label FontStyle="Normal" FontWeight="Bold" FontSize="12.3" FontFamily="Tahoma" Content="Read the rest on Mangadex?" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                            <Button Grid.Row="1" Margin="4" BorderBrush="{x:Null}" FontFamily="Tahoma" Background="#FF464646" Click="Button_Click_2">
+                                                Sure!
+                                            </Button>
+                                        </Grid>
+                                    </Grid>
 
+
+
+
+                                </StackPanel>
+                            </ScrollViewer>
+                        </Grid>
                     </Border>
                 </Grid>
                 <wv2:WebView2 x:Name="Player" Visibility="Hidden"></wv2:WebView2>

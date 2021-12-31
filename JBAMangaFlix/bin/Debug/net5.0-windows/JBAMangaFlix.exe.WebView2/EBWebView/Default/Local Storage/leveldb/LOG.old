@@ -1,14 +1,6 @@
-2021/12/30-12:47:52.978 7e14 Reusing MANIFEST C:\Users\muham\source\repos\JBAMangaFlix\JBAMangaFlix\bin\Debug\net5.0-windows\JBAMangaFlix.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
-2021/12/30-12:47:52.982 7e14 Recovering log #12
-2021/12/30-12:47:52.984 7e14 Reusing old log C:\Users\muham\source\repos\JBAMangaFlix\JBAMangaFlix\bin\Debug\net5.0-windows\JBAMangaFlix.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000012.log 
-2021/12/30-12:48:34.544 7e14 Level-0 table #16: started
-2021/12/30-12:48:34.552 7e14 Level-0 table #16: 45539 bytes OK
-2021/12/30-12:48:34.556 7e14 Delete type=0 #12
-2021/12/30-12:48:34.560 7e14 Compacting 4@0 + 0@1 files
-2021/12/30-12:48:34.565 7e14 Generated table #17@0: 12 keys, 6096 bytes
-2021/12/30-12:48:34.566 7e14 Compacted 4@0 + 0@1 files => 6096 bytes
-2021/12/30-12:48:34.567 7e14 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/12/30-12:48:34.569 7e14 Delete type=2 #7
-2021/12/30-12:48:34.569 7e14 Delete type=2 #10
-2021/12/30-12:48:34.569 7e14 Delete type=2 #13
-2021/12/30-12:48:34.569 7e14 Delete type=2 #16
+2021/12/30-22:09:07.224 1448 Reusing MANIFEST C:\Users\muham\source\repos\MangaFlix-JBA\JBAMangaFlix\bin\Debug\net5.0-windows\JBAMangaFlix.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2021/12/30-22:09:07.226 1448 Recovering log #15
+2021/12/30-22:09:07.228 1448 Reusing old log C:\Users\muham\source\repos\MangaFlix-JBA\JBAMangaFlix\bin\Debug\net5.0-windows\JBAMangaFlix.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000015.log 
+2021/12/30-22:09:59.212 2a60 Level-0 table #20: started
+2021/12/30-22:09:59.236 2a60 Level-0 table #20: 37334 bytes OK
+2021/12/30-22:09:59.239 2a60 Delete type=0 #15
