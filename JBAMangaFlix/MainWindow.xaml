@@ -98,13 +98,115 @@
                                             <ImageBrush ImageSource="https://i.ytimg.com/vi/GWzdC6LQN4g/hqdefault.jpg" Stretch="UniformToFill"/>
                                         </Button.Background>
                                     </Button>
+<Button x:Name="Chapter_11" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_11_Click">
+                                            <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/KaHXtY3v9nw/hqdefault.jpg" Stretch="UniformToFill"/>
+                                            </Button.Background>
+                                        </Button>
+                                    <Button x:Name="Chapter_12" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_12_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/H4ypSHbHhRc/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="Chapter_13" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_13_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/t5PAoe_e5No/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="Chapter_14" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_14_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/N4jPdQkm12g/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="Chapter_15" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_15_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/AvP5oEEWKzk/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="Chapter_16" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_16_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/qa-qs7N7nVY/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="Chapter_17" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_17_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/gqnjvtvX2HU/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="Chapter_18" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_18_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/BRglDOu-Tt8/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="Chapter_19" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_19_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/kkDJhyl4X4g/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="Chapter_20" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_20_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/2AwOwxKC7V8/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="Chapter_21" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_21_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/diSntwF0sXQ/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="Chapter_22" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_22_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/kqDEX8f_HKo/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="Chapter_23" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_23_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/t5zPMJs-5ns/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="Chapter_24" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_24_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/Swfh2xWXwpA/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="Chapter_25" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_25_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/k13vuKMrpxo/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="Chapter_26" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_26_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/M4WoR4OZn3M/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="Chapter_27" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_27_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/lljJfOB1ni0/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="Chapter_28" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_28_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/6skYiQv6iKM/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="Chapter_29" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_29_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/aGV17Es3PbU/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+                                    <Button x:Name="Chapter_30" Width="200" Height="113" HorizontalAlignment="Left" Margin="5,0,0,0" BorderBrush="{x:Null}" Click="Chapter_30_Click">
+                                        <Button.Background>
+                                            <ImageBrush ImageSource="https://i.ytimg.com/vi/znWwi8g-TKM/hqdefault.jpg" Stretch="UniformToFill"/>
+                                        </Button.Background>
+                                    </Button>
+
+
+
+
 
 
 
                                 </StackPanel>
                             </ScrollViewer>
-
-
                         </Grid>
                     </Border>
 

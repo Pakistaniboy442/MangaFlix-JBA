@@ -256,5 +256,206 @@ namespace JBAMangaFlix
             WindowStyle = WindowStyle.None;
             GridHost.Margin = new Thickness(7);
         }
+
+        private void Chapter_11_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://www.youtube.com/embed/KaHXtY3v9nw?list=PLQC7LpKc8MbkZklRZ3F3Hy6q65fwtqY6S");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
+
+        private void Chapter_12_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/H4ypSHbHhRc");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
+
+        private void Chapter_13_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/t5PAoe_e5No");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
+
+        private void Chapter_14_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/N4jPdQkm12g");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+
+        }
+
+        private void Chapter_15_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/AvP5oEEWKzk");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
+
+        private void Chapter_16_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/qa-qs7N7nVY");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
+
+        private void Chapter_17_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/gqnjvtvX2HU");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
+
+        private void Chapter_18_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/BRglDOu-Tt8");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
+
+        private void Chapter_19_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/kkDJhyl4X4g");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
+
+        private void Chapter_20_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/2AwOwxKC7V8");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
+
+        private void Chapter_21_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/diSntwF0sXQ");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
+
+        private void Chapter_22_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/kqDEX8f_HKo");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
+
+        private void Chapter_23_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/t5zPMJs-5ns");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
+
+        private void Chapter_24_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/Swfh2xWXwpA");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
+
+        private void Chapter_25_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/k13vuKMrpxo");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
+
+        private void Chapter_26_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/M4WoR4OZn3M");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
+
+        private void Chapter_27_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/lljJfOB1ni0");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
+
+        private void Chapter_28_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/6skYiQv6iKM");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
+
+        private void Chapter_29_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/aGV17Es3PbU");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
+
+        private void Chapter_30_Click(object sender, RoutedEventArgs e)
+        {
+            Player.Source = new Uri("https://members.viewpure.com/videos/embed/znWwi8g-TKM");
+            Menu.Visibility = Visibility.Hidden;
+            Player.Visibility = Visibility.Visible;
+            WindowState = WindowState.Maximized;
+            WindowStyle = WindowStyle.None;
+            GridHost.Margin = new Thickness(7);
+        }
     }
 }
